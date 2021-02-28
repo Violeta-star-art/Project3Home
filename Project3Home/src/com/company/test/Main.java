@@ -7,7 +7,7 @@ public class Main {
         int discountPercentage = 5;
         float productPriceAfterDiscount = price - price * (discountPercentage / 100.0f);
         System.out.println(productPriceAfterDiscount);
-        System.out.println("Hello");
+        System.out.println("Hello Customer");
     }
 }
 
