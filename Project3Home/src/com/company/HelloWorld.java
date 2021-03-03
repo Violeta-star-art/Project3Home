@@ -11,6 +11,7 @@ public class HelloWorld {
         System.out.println("Hello World");
         sayHello( " Violeta");
         sayGoodbye( " Team");
+        System.out.println("Easter");
 
     }
 
